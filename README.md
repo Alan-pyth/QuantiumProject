@@ -10,6 +10,7 @@ Extent analysis from task 1 to help identify benchmark stores that allow to test
 
 Task 3: Analytics and commercial application
 Use analytics and insights from taks 1 and 2 to prepare a report for the client, the Category Manager.
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 Completion Certificate:
 ![Completion Certificate](https://user-images.githubusercontent.com/62959983/121815002-5c075d00-ccb7-11eb-96ef-a55f77a46800.png)
