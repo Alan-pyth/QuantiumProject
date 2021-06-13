@@ -1,7 +1,6 @@
 
 # QuantiumProject
-Please go to https://www.theforage.com/virtual-internships/NkaC7knWtjSbi6aYv?ref=gg7598HySsXY7XrGF, to see the project overview!
------------------------------------------------------------------------------------------------------------------------------------------------------------------
+project overview!
 Task 1: Data preparation and customer analytics:
 Conduct analysis on client's dataset and identify customer purchasing behaviours to generate insights and provide commercial recommendations.
 
